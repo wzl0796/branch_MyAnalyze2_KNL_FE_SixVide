@@ -1,0 +1,84 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            a7:2c:1c:41:d3:78:22:89:63:7d:89:08:06:25:f2:4f
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Meyer
+        Validity
+            Not Before: Jan  3 05:55:17 2024 GMT
+            Not After : Dec 10 05:55:17 2123 GMT
+        Subject: CN=Meyer
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e2:df:d4:7d:25:03:f0:95:02:4c:f0:1e:51:28:
+                    f7:c1:f3:df:2c:3c:d7:9b:be:bf:14:4b:a6:4e:ed:
+                    9f:04:80:dc:2a:5f:f5:a6:78:07:ab:18:b5:78:b2:
+                    f2:dc:2f:2e:86:fc:da:52:79:e0:4e:3f:51:47:82:
+                    39:c3:2f:0e:6f:72:c0:73:5c:18:02:fc:22:4c:db:
+                    b0:48:6e:9b:48:a9:81:05:50:60:28:31:92:8f:1d:
+                    b3:7b:49:f3:76:c7:9e:03:2d:7e:0b:d7:fc:3e:1a:
+                    fd:fc:aa:8d:2a:0a:c4:53:c3:a0:98:ae:e0:45:82:
+                    f8:02:32:ee:32:44:15:a6:a0:8a:60:56:e3:74:bc:
+                    2b:48:1e:63:3d:3e:30:e4:1b:28:0d:4b:6b:42:fa:
+                    09:d2:31:08:f3:b2:ef:50:8b:31:52:64:d2:10:6d:
+                    18:f3:d6:1f:e7:67:c0:6f:e3:63:50:ee:f9:f3:dc:
+                    bd:8d:06:bf:93:9a:1d:fc:14:76:61:2b:cd:81:ca:
+                    3b:9a:73:f8:93:96:40:9d:23:dd:66:00:f0:9d:24:
+                    47:45:fc:f9:32:84:66:8e:43:fa:ab:b2:b6:18:22:
+                    d7:16:73:ec:2e:79:71:99:50:18:6b:e3:40:48:b4:
+                    5d:0a:08:a6:cb:17:36:2b:59:e5:0a:8c:cb:22:65:
+                    a9:a1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                F9:79:CC:31:17:B4:C7:D7:D9:8E:29:ED:48:1F:E9:CA:93:AC:F5:50
+            X509v3 Authority Key Identifier: 
+                keyid:23:67:75:95:B2:38:55:32:76:A7:26:03:04:50:22:A5:43:2B:E4:E1
+                DirName:/CN=Meyer
+                serial:60:8B:BA:85:2D:12:49:5F:4F:F2:B8:B1:3C:7B:B1:9B:42:D7:94:41
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        8d:a8:95:f1:f6:8f:75:0c:6d:da:3e:92:d5:ae:cc:61:4c:29:
+        51:9b:cd:e7:70:16:3e:29:17:c7:fb:35:5a:7e:1c:81:f4:93:
+        2c:1f:e9:6d:e0:4b:dc:9f:94:c7:be:27:92:4e:65:5f:c2:58:
+        55:93:2b:b9:f3:f5:41:a8:a9:53:14:d2:ce:48:50:00:6b:e6:
+        e6:e4:95:89:55:6f:1d:46:ed:13:78:32:6f:f1:06:bf:01:6b:
+        52:e0:a8:25:6d:fe:31:9b:e0:31:41:cf:9f:d9:52:16:de:3f:
+        11:23:b5:3c:c5:58:fd:5e:2a:6b:76:f9:b6:ba:61:5a:c8:b4:
+        b3:51:02:47:b3:9b:ba:18:95:79:20:c5:d4:31:a7:eb:86:67:
+        91:39:18:ab:4d:91:f5:ca:e9:b6:44:38:5b:27:b7:b2:ed:ee:
+        1d:95:74:7f:2a:80:0b:af:16:0e:c0:f6:52:dc:bc:aa:ce:01:
+        59:09:28:e3:d7:65:8f:11:e6:7e:fc:e9:8f:7b:c0:0e:0b:81:
+        1f:fe:53:af:d9:64:67:c5:f5:46:50:c1:97:07:a0:fc:2b:d4:
+        33:11:96:8e:84:c8:f9:24:1c:3c:09:93:d7:56:1d:4d:6f:57:
+        47:ff:fe:05:ed:ac:97:de:e5:ee:c0:ef:af:e7:2a:38:02:07:
+        33:04:3d:c8
+-----BEGIN CERTIFICATE-----
+MIIDSjCCAjKgAwIBAgIRAKcsHEHTeCKJY32JCAYl8k8wDQYJKoZIhvcNAQELBQAw
+EDEOMAwGA1UEAwwFTWV5ZXIwIBcNMjQwMTAzMDU1NTE3WhgPMjEyMzEyMTAwNTU1
+MTdaMBAxDjAMBgNVBAMMBU1leWVyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA4t/UfSUD8JUCTPAeUSj3wfPfLDzXm76/FEumTu2fBIDcKl/1pngHqxi1
+eLLy3C8uhvzaUnngTj9RR4I5wy8Ob3LAc1wYAvwiTNuwSG6bSKmBBVBgKDGSjx2z
+e0nzdseeAy1+C9f8Phr9/KqNKgrEU8OgmK7gRYL4AjLuMkQVpqCKYFbjdLwrSB5j
+PT4w5BsoDUtrQvoJ0jEI87LvUIsxUmTSEG0Y89Yf52fAb+NjUO7589y9jQa/k5od
+/BR2YSvNgco7mnP4k5ZAnSPdZgDwnSRHRfz5MoRmjkP6q7K2GCLXFnPsLnlxmVAY
+a+NASLRdCgimyxc2K1nlCozLImWpoQIDAQABo4GcMIGZMAkGA1UdEwQCMAAwHQYD
+VR0OBBYEFPl5zDEXtMfX2Y4p7Ugf6cqTrPVQMEsGA1UdIwREMEKAFCNndZWyOFUy
+dqcmAwRQIqVDK+ThoRSkEjAQMQ4wDAYDVQQDDAVNZXllcoIUYIu6hS0SSV9P8rix
+PHuxm0LXlEEwEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYDVR0PBAQDAgeAMA0GCSqG
+SIb3DQEBCwUAA4IBAQCNqJXx9o91DG3aPpLVrsxhTClRm83ncBY+KRfH+zVafhyB
+9JMsH+lt4Evcn5THvieSTmVfwlhVkyu58/VBqKlTFNLOSFAAa+bm5JWJVW8dRu0T
+eDJv8Qa/AWtS4Kglbf4xm+AxQc+f2VIW3j8RI7U8xVj9Xiprdvm2umFayLSzUQJH
+s5u6GJV5IMXUMafrhmeRORirTZH1yum2RDhbJ7ey7e4dlXR/KoALrxYOwPZS3Lyq
+zgFZCSjj12WPEeZ+/OmPe8AOC4Ef/lOv2WRnxfVGUMGXB6D8K9QzEZaOhMj5JBw8
+CZPXVh1Nb1dH//4F7ayX3uXuwO+v5yo4AgczBD3I
+-----END CERTIFICATE-----
